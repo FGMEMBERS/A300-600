@@ -27,6 +27,8 @@
 		
 		<startup>
 			<splash-texture>Splashs/splash-600F.png</splash-texture>
+			<splash-texture>Splashs/splash1-600F.png</splash-texture>
+			<splash-texture>Splashs/splash2-600F.png</splash-texture>
 			<splash-title>Airbus A300-600F v0.16</splash-title>
 		</startup>
 		<flaps>

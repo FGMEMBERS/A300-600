@@ -26,6 +26,8 @@
 		<engine>GE-CF6-80C2A3</engine>
 		
 		<startup>
+			<splash-texture>Splashs/splash1-603.png</splash-texture>
+			<splash-texture>Splashs/splash2-603.png</splash-texture>
 			<splash-texture>Splashs/splash-603.png</splash-texture>
 			<splash-title>Airbus A300-603 v0.16</splash-title>
 		</startup>
