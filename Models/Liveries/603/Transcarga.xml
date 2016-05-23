@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+ 
+ <PropertyList>
+  <sim>
+   <model>
+    <livery>
+     <name type="string">YV562T (Transcarga Retro)</name>
+     <texture>Liveries/603/Transcarga.png</texture>
+    </livery>
+   </model>
+  </sim>
+ </PropertyList>
